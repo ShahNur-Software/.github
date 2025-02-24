@@ -6,7 +6,7 @@ Welcome to the official GitHub profile of ShahNur Software! We are a passionate 
 
 ## 🚀 About Us
 
-At ShahNur Software, we bring over 7+ years of experience to the table, specializing in web and mobile development, CRM/ERP systems, UI/UX design, digital marketing, and IT consulting. Our dynamic team of more than 20 professionals is committed to empowering innovation and crafting excellence in every project we undertake.
+At ShahNur Software, we bring over 10+ years of experience to the table, specializing in web and mobile development, CRM/ERP systems, UI/UX design, digital marketing, and IT consulting. Our dynamic team of more than 30 professionals is committed to empowering innovation and crafting excellence in every project we undertake.
 
 ## 🛠 Our Services
 
@@ -16,6 +16,9 @@ At ShahNur Software, we bring over 7+ years of experience to the table, speciali
 - **UI/UX Design**: Designing user-friendly interfaces and enhancing user experiences.
 - **Digital Marketing**: Creating and executing effective digital marketing strategies.
 - **IT Consulting**: Offering IT consulting services to optimize your infrastructure.
+- **Cloud Solutions**: Secure and scalable infrastructure using AWS and Azure.
+- **AI & Machine Learning**: Intelligent automation solutions for business growth.
+- **Cybersecurity**: Protection against cyber threats and data breaches.
 
 ## 👨‍💻 Our Team
 
@@ -34,7 +37,7 @@ Our team is composed of professionals with expertise in project management, UI/U
 - **Address**: Tashkent, Yunusobod District, Amir Temur Street
 - **Email**: [info@shahnur.software](mailto:info@shahnur.software)
 - **Phone**: +998 (33) 555-03-19
-- **Telegram**: [@ShahNurSoftwareCEO](https://t.me/ShahNurSoftwareCEO)
+- **Telegram**: [@ShahNurSoftwarePM](https://t.me/ShahNurSoftwarePM)
 
 Feel free to explore our repositories and reach out to us for any collaboration or project inquiries.
 
